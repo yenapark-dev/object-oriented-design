@@ -32,9 +32,3 @@ namespace DirectoryInformation
     }
 }
 
-
-//Create a program named DirectoryInformation that allows a user to
-//continually enter directory names until the user types end. If the
-//directory name exists, display a list of the files in it; otherwise,
-//display a message indicating the directory does not exist. Create as
-//many test directories and files as necessary to test your program.
